@@ -1,0 +1,7 @@
+body {
+  padding: 16px;
+}
+
+.unfulfilled {
+  text-decoration: line-through;
+}
